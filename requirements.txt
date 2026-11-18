@@ -1,0 +1,9 @@
+colorama==0.4.6
+dotenv==0.9.9
+psycopg==3.3.6
+psycopg-binary==3.3.6
+psycopg-pool==3.3.3
+python-dotenv==1.2.4
+typing_extensions==4.16.0
+tzdata==2026.5
+apache-airflow-providers-postgres
